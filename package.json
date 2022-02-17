@@ -1,7 +1,7 @@
 {
-  "name": "react-chrome-extension",
+  "name": "ad-blocker",
   "version": "1.0.0",
-  "description": "react chrome extension template",
+  "description": "ad-blocker chrome extension",
   "scripts": {
     "start": "webpack --watch --progress --config webpack.dev.js",
     "build": "webpack --watch --progress --config webpack.prod.js"
